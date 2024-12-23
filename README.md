@@ -1,0 +1,1 @@
+Install Ollama using the [link|https://ollama.com/]
